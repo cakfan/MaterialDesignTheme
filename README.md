@@ -1,3 +1,2 @@
 # MaterialDesignTheme
-
-Visit https://cakfan.blogspot.com
+Ini merupakan bagian dari tutorial yang saya buat, kunjungi https://cakfan.blogspot.com :D
